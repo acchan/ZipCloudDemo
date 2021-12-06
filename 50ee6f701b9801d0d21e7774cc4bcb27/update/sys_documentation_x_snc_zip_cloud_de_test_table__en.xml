@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Test Table" language="en" table="x_snc_zip_cloud_de_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test Table</label>
+            <language>en</language>
+            <name>x_snc_zip_cloud_de_test_table</name>
+            <plural>Test Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-06 10:54:42</sys_created_on>
+            <sys_id>dc80ec8d1bd40150f6c60f26cc4bcb09</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Table</sys_name>
+            <sys_package display_value="Zip Cloud Demo" source="x_snc_zip_cloud_de">50ee6f701b9801d0d21e7774cc4bcb27</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Zip Cloud Demo">50ee6f701b9801d0d21e7774cc4bcb27</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_zip_cloud_de_test_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-06 10:54:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
