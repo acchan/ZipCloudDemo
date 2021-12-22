@@ -4,14 +4,14 @@
         <name>FD7afb80cd14140150d7e9c4a78d14c758</name>
         <namespace>FlowDesigner</namespace>
         <scope_name>50ee6f701b9801d0d21e7774cc4bcb27</scope_name>
-        <serialized_content>{"FlowDesigner:FD7afb80cd14140150d7e9c4a78d14c758":{"$COCollectionField":[{"Object":{}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD7afb80cd14140150d7e9c4a78d14c758.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"a7d5bb65-6268-4589-ad38-07ab4adb5f95\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Results\",\"mandatory\":\"false\",\"child_name\":\"address\",\"uiUniqueId\":\"f1c28bf8-a435-48c6-84e2-e8281aec06c1\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD7afb80cd14140150d7e9c4a78d14c758\",\"child_label\":\"address\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"d13a2a91-a505-4c35-85a7-a9c909d5408f\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"a830d03b-d04a-46bb-a963-f1d5c06e6e37\"}"}}</serialized_content>
+        <serialized_content>{"FlowDesigner:FD7afb80cd14140150d7e9c4a78d14c758":{"$COCollectionField":[{"Result":{"Address":"String","Address.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Address\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"aa891cec-244c-42f5-8c42-bb8af6e0040b\"}"},"Date":"Date","Date.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Date/Time\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"Date\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"2434e2bb-c135-4a90-a818-42138e1f35be\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"a7d5bb65-6268-4589-ad38-07ab4adb5f95\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Results\",\"mandatory\":\"false\",\"child_name\":\"Result\",\"uiUniqueId\":\"f1c28bf8-a435-48c6-84e2-e8281aec06c1\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD7afb80cd14140150d7e9c4a78d14c758\",\"child_label\":\"Result\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"468804ef-4ce1-404f-91bb-b6d7cd7d6216\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"edc72184-5e97-4750-a61d-4f1114f0c26e\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD7afb80cd14140150d7e9c4a78d14c758.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"a7d5bb65-6268-4589-ad38-07ab4adb5f95\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Results\",\"mandatory\":\"false\",\"child_name\":\"Result\",\"uiUniqueId\":\"f1c28bf8-a435-48c6-84e2-e8281aec06c1\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD7afb80cd14140150d7e9c4a78d14c758\",\"child_label\":\"Result\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"468804ef-4ce1-404f-91bb-b6d7cd7d6216\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"edc72184-5e97-4750-a61d-4f1114f0c26e\"}"}}</serialized_content>
         <sys_class_name>sys_complex_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-06 09:25:02</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3efb80cd1b140150f6c60f26cc4bcb58</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>FD7afb80cd14140150d7e9c4a78d14c758</sys_name>
         <sys_overrides/>
         <sys_package display_value="Zip Cloud Demo" source="x_snc_zip_cloud_de">50ee6f701b9801d0d21e7774cc4bcb27</sys_package>
@@ -19,7 +19,7 @@
         <sys_scope display_value="Zip Cloud Demo">50ee6f701b9801d0d21e7774cc4bcb27</sys_scope>
         <sys_update_name>sys_complex_object_3efb80cd1b140150f6c60f26cc4bcb58</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-06 09:25:54</sys_updated_on>
+        <sys_updated_on>2021-12-21 08:56:34</sys_updated_on>
         <type>complex_object_collection</type>
     </sys_complex_object>
 </record_update>

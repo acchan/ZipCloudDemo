@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>create_records_from_array</internal_name>
-        <label_cache>[{"name":"ad59c3bb-4f83-4076-9f7d-10d24670b2ae.item.FD7afb80cd14140150d7e9c4a78d14c758","label":"2➛address➛Results","reference":"","reference_display":"","type":"array.object","base_type":"array.object","column_name":"","attributes":{}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.__dont_treat_as_error__","label":"3➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.__action_status__","label":"3➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.table_name","label":"3➛Test Table Table","reference":"x_snc_zip_cloud_de_test_table","reference_display":"Test Table Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.record","label":"3➛Test Table Record","reference":"x_snc_zip_cloud_de_test_table","reference_display":"Test Table Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ad59c3bb-4f83-4076-9f7d-10d24670b2ae.item","label":"2➛address","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"31673449-2dd9-4038-b32f-0c31ac2b7b7b.results","label":"1➛Results","reference_display":"Results","type":"array.object","base_type":"array.object","attributes":{"sourceId":"a7d5bb65-6268-4589-ad38-07ab4adb5f95","child_name":"address","uiUniqueId":"f1c28bf8-a435-48c6-84e2-e8281aec06c1","uiTypeLabel":"Array.Object","co_type_name":"FDb350288dc2d401504196b82538d8e254","child_label":"address","child_type_label":"Object","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceType":"step","sourceUiUniqueId":"d13a2a91-a505-4c35-85a7-a9c909d5408f","uiType":"array.object","child_type":"object","child_uiUniqueId":"a830d03b-d04a-46bb-a963-f1d5c06e6e37"}},{"name":"31673449-2dd9-4038-b32f-0c31ac2b7b7b.__dont_treat_as_error__","label":"1➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiTypeLabel":"True/False","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true","uiUniqueId":"f11fb53c-46ec-4b40-ba8e-8ccbf832981b"}},{"name":"31673449-2dd9-4038-b32f-0c31ac2b7b7b.__action_status__","label":"1➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiTypeLabel":"Object","co_type_name":"FD7350288d08d401501a12b1dff362d852","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true","uiUniqueId":"11b7668f-0498-4b67-9626-c6962e9e2a75"}}]</label_cache>
+        <label_cache>[{"name":"31673449-2dd9-4038-b32f-0c31ac2b7b7b.__action_status__","label":"1➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiTypeLabel":"Object","co_type_name":"FD7350288d08d401501a12b1dff362d852","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true","uiUniqueId":"11b7668f-0498-4b67-9626-c6962e9e2a75"}},{"name":"31673449-2dd9-4038-b32f-0c31ac2b7b7b.__dont_treat_as_error__","label":"1➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiTypeLabel":"True/False","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true","uiUniqueId":"f11fb53c-46ec-4b40-ba8e-8ccbf832981b"}},{"name":"31673449-2dd9-4038-b32f-0c31ac2b7b7b.results","label":"1➛Results","reference_display":"Results","type":"array.object","base_type":"array.object","attributes":{"sourceId":"a7d5bb65-6268-4589-ad38-07ab4adb5f95","child_name":"address","uiUniqueId":"f1c28bf8-a435-48c6-84e2-e8281aec06c1","uiTypeLabel":"Array.Object","co_type_name":"FDb350288dc2d401504196b82538d8e254","child_label":"address","child_type_label":"Object","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceType":"step","sourceUiUniqueId":"d13a2a91-a505-4c35-85a7-a9c909d5408f","uiType":"array.object","child_type":"object","child_uiUniqueId":"a830d03b-d04a-46bb-a963-f1d5c06e6e37"}},{"name":"ad59c3bb-4f83-4076-9f7d-10d24670b2ae.item","label":"2➛address","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.record","label":"3➛Test Table Record","reference":"x_snc_zip_cloud_de_test_table","reference_display":"Test Table Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.table_name","label":"3➛Test Table Table","reference":"x_snc_zip_cloud_de_test_table","reference_display":"Test Table Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.__action_status__","label":"3➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c2ffe46-67c2-4850-a48e-847ab40512ef.__dont_treat_as_error__","label":"3➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ad59c3bb-4f83-4076-9f7d-10d24670b2ae.item.FD7afb80cd14140150d7e9c4a78d14c758","label":"2➛address➛Results","reference":"","reference_display":"","type":"array.object","base_type":"array.object","column_name":"","attributes":{}}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>Create Records from Array</name>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>62e0a0cd1bd40150f6c60f26cc4bcb72</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Create Records from Array</sys_name>
         <sys_overrides/>
         <sys_package display_value="Zip Cloud Demo" source="x_snc_zip_cloud_de">50ee6f701b9801d0d21e7774cc4bcb27</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Zip Cloud Demo">50ee6f701b9801d0d21e7774cc4bcb27</sys_scope>
         <sys_update_name>sys_hub_flow_62e0a0cd1bd40150f6c60f26cc4bcb72</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-06 11:09:36</sys_updated_on>
+        <sys_updated_on>2021-12-21 07:09:34</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=62e0a0cd1bd40150f6c60f26cc4bcb72"/>
@@ -53,10 +53,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-06 11:01:56</sys_created_on>
         <sys_id>9e2228c11b180150f6c60f26cc4bcbd3</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-06 11:09:35</sys_updated_on>
+        <sys_updated_on>2021-12-21 07:09:33</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -105,10 +105,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-06 11:01:57</sys_created_on>
         <sys_id>a62228c11b180150f6c60f26cc4bcbfd</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Zip Cloud Demo">50ee6f701b9801d0d21e7774cc4bcb27</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-06 11:09:35</sys_updated_on>
+        <sys_updated_on>2021-12-21 07:09:33</sys_updated_on>
         <ui_id>5c2ffe46-67c2-4850-a48e-847ab40512ef</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a62228c11b180150f6c60f26cc4bcbfd"/>
@@ -179,10 +179,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-06 11:01:57</sys_created_on>
         <sys_id>d22228c11b180150f6c60f26cc4bcbe5</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Zip Cloud Demo">50ee6f701b9801d0d21e7774cc4bcb27</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-06 11:09:35</sys_updated_on>
+        <sys_updated_on>2021-12-21 07:09:33</sys_updated_on>
         <ui_id>31673449-2dd9-4038-b32f-0c31ac2b7b7b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d22228c11b180150f6c60f26cc4bcbe5"/>
@@ -224,10 +224,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-06 11:01:57</sys_created_on>
         <sys_id>d62228c11b180150f6c60f26cc4bcbf5</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_scope display_value="Zip Cloud Demo">50ee6f701b9801d0d21e7774cc4bcb27</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-06 11:09:35</sys_updated_on>
+        <sys_updated_on>2021-12-21 07:09:33</sys_updated_on>
         <ui_id>ad59c3bb-4f83-4076-9f7d-10d24670b2ae</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
